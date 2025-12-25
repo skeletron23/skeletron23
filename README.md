@@ -57,10 +57,7 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-<p align="center">
-        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
-</p>
-###
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/skeletron23/skeletron23/blob/output/github-contribution-grid-snake-dark.svg">
+  <img alt="github contribution grid snake animation" src="https://github.com/skeletron23/skeletron23/blob/output/github-contribution-grid-snake.svg">
+</picture>
