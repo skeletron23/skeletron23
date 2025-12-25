@@ -1,4 +1,4 @@
-<h2 align="left">Yoo!! My name is Amaey Agarwal, A Startup Founder and a Software Engineer, from India</h2>
+<h2 align="left">Yoo!! My name is Amaey Agarwal, A Startup Founder and a Software Engineer from India</h2>
 
 ###
 
