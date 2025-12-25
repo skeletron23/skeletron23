@@ -59,5 +59,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/skeletron23/skeletron23/blob/output/github-contribution-grid-snake-dark.svg">
+
+  ## Look!! This snake ate away my contribution graph 😭😭
   <img alt="github contribution grid snake animation" src="https://github.com/skeletron23/skeletron23/blob/output/github-contribution-grid-snake.svg">
 </picture>
